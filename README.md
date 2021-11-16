@@ -1,4 +1,4 @@
-## Hi there, I'm Ivan Borba - Fullstack Dev and aiming to become a Data Engineer! 👋
+## Hi there, I'm Ivan Borba - Fullstack Dev and aiming to become a Data Engineer! 🌟🌟
 
 
 ### Actually i'm working with Node.js, Java and Vue.js!
@@ -31,5 +31,21 @@
   <img height="151em" src="https://github-readme-stats.vercel.app/api?username=ivannicolau&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivannicolau&theme=aura_dark&layout=compact&show_icons=true&count_private=true&langs_count=20"/>   
 </div>
+  
+### You can also find me on LinkedIn
+  <div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/ivan-borbajr/"> 
+    <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
+</div>
 
-[linkedin]: https://www.linkedin.com/in/ivan-borbajr/
+### 🌟 Main Projects 🌟
+  <div style="display: inline_block"><br>
+  <a href="https://acijacotacoes.com/">
+    <img align="center" alt="Acija Cotações" height="40" width="110" src="https://i.imgur.com/iwunU7Q.png">
+  </a>
+    <a href="https://acijacotacoes.com/">
+    <img align="center" alt="SiCARF PA" height="40" width="110" src="https://i.imgur.com/bpuvYgv.png">
+  </a>
+</div>
+
