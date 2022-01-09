@@ -29,7 +29,7 @@
 <div>
   <a href="https://github.com/ivannicolau">
   <img height="151em" src="https://github-readme-stats.vercel.app/api?username=ivannicolau&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivannicolau&theme=aura_dark&layout=compact&show_icons=true&count_private=true&langs_count=20"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivannicolau&theme=aura_dark&show_icons=true&count_private=true&langs_count=10"/>
   </a>
 </div>
   
