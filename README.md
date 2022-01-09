@@ -28,10 +28,11 @@
 
 <div>
   <a href="https://github.com/ivannicolau">
-  <img height="151em" src="https://github-readme-stats.vercel.app/api?/username=ivannicolau&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=ivannicolau&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivannicolau&count_private=true&theme=aura_dark"/>
   </a>
 </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivannicolau&repo=ivannicolau)](https://github.com/ivannicolau/ivannicolau)
   
 ### You can also find me on LinkedIn
   <div style="display: inline_block"><br>
