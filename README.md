@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working with OOP , Spring Boot, JPA, Node.js and Vue.js 
 - 🔎 I’m looking to learn more about Python, Data LakeHouse and Azure!
-- 🗓️ 2022 Goals: Get a Junior job as a developer or become a Junior Data Engineer!
+- 🗓️ 2022 Goals: Become a Data Engineer!
 
 
 ### Languages and Tools:
