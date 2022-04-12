@@ -28,9 +28,12 @@
 ##
 
 <div>
-  <a href="https://github.com/ivannicolau">
-  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=ivannicolau&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  </a>
+<a href="https://github.com/ivannicolau">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivannicolau&show_icons=true&theme=radical" alt="ivannicolau's github stats" />
+</a>
+<a href="https://github.com/ivannicolau">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivannicolau&layout=compact&theme=radical" />
+</a>
 </div>
   
 
