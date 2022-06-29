@@ -4,7 +4,7 @@
 ### Actually i'm working with Node.js, Java and Vue.js!
 
 - 💻 I’m currently working with OOP , Spring Boot, JPA, Node.js and Vue.js 
-- 🔎 I’m looking to learn more about Python, Data LakeHouse and Azure!
+- 🔎 I’m looking to learn more about Python, Spark and Cloud Environment!
 - 🗓️ 2022 Goals: Become a Data Engineer!
 
 
