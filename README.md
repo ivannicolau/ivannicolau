@@ -1,11 +1,11 @@
 ## Hi there, I'm Ivan Borba - Fullstack Dev and aiming to become a Data Engineer! 🌟🌟
 
 
-### Actually i'm working with Node.js, Java and Vue.js!
+### Actually i'm working with Node.js, Java and AWS!
 
-- 💻 I’m currently working with OOP , Spring Boot, JPA, Node.js and Vue.js 
+- 💻 I’m currently working with Node.js, Typescript, AWS Services and Microsservices Arch. 
 - 🔎 I’m looking to learn more about Python, Spark and Cloud Environment!
-- 🗓️ 2022 Goals: Become a Data Engineer!
+- 🗓️ 2023 Goals: Become a Data Engineer!
 
 
 ### Languages and Tools:
