@@ -19,8 +19,8 @@
   <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg">
 </div>
 
 ##
