@@ -17,7 +17,7 @@
   <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg">
-  <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/openapi/openapi-original-wordmark.svg">
+  <img align="center" alt="ivannicolau's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/openapi/openapi-original.svg">
   
 </div>
 
