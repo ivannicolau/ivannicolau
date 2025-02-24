@@ -1,11 +1,11 @@
-## Hi there, I'm Ivan Borba - Fullstack Dev and aiming to become a Data Engineer! 🌟🌟
+## Hi there, I'm Ivan Borba - Backend Dev and aiming to become a Machine Learning Engineer! 🌟🌟
 
 
 ### Actually i'm working with Node.js, Java, AWS and Azure!
 
-- 💻 I’m currently working with Node.js, Typescript, AWS Services and Microsservices Arch. 
-- 🔎 I’m looking to learn more about Python, Spark and Cloud Environment!
-- 🗓️ 2024 Goals: Become a Data Engineer!
+- 💻 I’m currently working Java, Node.js, Python, Ollama and mostly Azure and AWS clouds. 
+- 🔎 I’m looking to improve my prompt engineering skills and also develop more professional applications IA based with Langchain, Ollama (for run models llocaly) and Redis (cache manager)!
+- 🗓️ 2025-2026 Goals: Become a Machine Learning Engineer!
 
 
 ### Languages and Tools:
